@@ -4,9 +4,9 @@
 ### 📋 **Project Overview**
 ChemiEvolve Industries presents a comprehensive chemical engineering project encompassing the design, synthesis, and market analysis of three key industrial chemicals: **2'-13C-L-Histidine**, **Diphenic Acid**, and **Phenol-Formaldehyde Resin (Bakelite)**. This project demonstrates complete end-to-end chemical process development from laboratory-scale synthesis to industrial implementation, including economic feasibility and environmental impact assessments.
 
-**CEO:** Aadityaamlan Panda (220007)  
-**Institution:** Chemical Engineering Department  
-**Course:** CHE261A  
+**CEO:** Aadityaamlan Panda 
+**Institution:** Chemical Engineering Department, IIT Kanpur  
+**Course:** Chemical Process Industries (CHE261A)  
 
 ***
 
